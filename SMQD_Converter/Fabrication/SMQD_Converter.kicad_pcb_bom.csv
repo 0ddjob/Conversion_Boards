@@ -1,0 +1,4 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+J1,1,XTAL,Crystal_HC49-U_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J2,1,GND,TestPoint_Pad_D1.5mm,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+Y1,1,Crystal_GND24,Crystal_SMD_0603-4Pin_6.0x3.5mm_HandSoldering,,,,smt,"Four pin crystal, GND on pins 2 and 4"
