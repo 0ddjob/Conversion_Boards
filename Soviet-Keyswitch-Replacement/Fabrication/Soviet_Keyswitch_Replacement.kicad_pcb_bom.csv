@@ -1,0 +1,3 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+"SW1, SW3, SW5, SW7",4,Soviet_VM16,VM16_Keyswitch,,,,tht,"Push button switch, generic, two pins"
+"SW2, SW4, SW6, SW8",4,Cherry_MX,SW_Cherry_MX_PCB,,,,tht,"Push button switch, generic, two pins"

@@ -1,0 +1,9 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+65.293974,-71.992026,0.0,top,SW1,,,VM16_Keyswitch,Soviet_VM16,tht
+65.293974,-63.992026,0.0,top,SW2,,,SW_Cherry_MX_PCB,Cherry_MX,tht
+83.293974,-71.992026,0.0,top,SW3,,,VM16_Keyswitch,Soviet_VM16,tht
+83.293974,-63.992026,0.0,top,SW4,,,SW_Cherry_MX_PCB,Cherry_MX,tht
+101.293974,-71.992026,0.0,top,SW5,,,VM16_Keyswitch,Soviet_VM16,tht
+101.293974,-63.992026,0.0,top,SW6,,,SW_Cherry_MX_PCB,Cherry_MX,tht
+119.293974,-71.992026,0.0,top,SW7,,,VM16_Keyswitch,Soviet_VM16,tht
+119.293974,-63.992026,0.0,top,SW8,,,SW_Cherry_MX_PCB,Cherry_MX,tht
