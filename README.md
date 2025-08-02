@@ -22,3 +22,11 @@ The idea behind this design is to make a 2.5mm pin pitch IC socket for Soviet-er
 20-Jun-2025: Test boards have been fabricated, not yet tested.<br>
 
 ![2.5mm pin pitch IC socket](/Soviet_40pin_Socket/Soviet_40pin_Socket_3D.png)
+
+## Soviet Keyswitch Replacement
+Replacement designs for Soviet-era VM16 key switches.
+
+### Status
+26-Jul-2025: Initial PCB tested, requires adjustments
+
+![Daughterboard & original](/Soviet-Keyswitch-Replacement/IMG_0261.jpeg)
