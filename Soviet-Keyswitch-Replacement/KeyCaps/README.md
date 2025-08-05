@@ -2,7 +2,8 @@
 Convert the existing Soviet-era key caps for use with Cherry MX-style key caps.<br>
 
 ## Dimensions
-Soviet VM16-style key cap has a stem that is 2.3mm in diameter and 11mm in length.<br>
+Soviet VM16-style key cap has a stem that is 2.3mm in diameter and 11mm in length:
+![Sovietski Keycapski](Soviet_VM16_Keycap_Bottom.png)
 
 The Cherry MX-style attachment is as [below](https://telcontar.net/KBK/Cherry/images/MX/Cherry_8_mm_mount.svgz):
 
