@@ -1,0 +1,3 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+U1,1,27C64,DIP-28_Adapter,,,,tht,"OTP EPROM 64 KiBit, [Obsolete 2004-01]"
+U2,1,MK36000,DIP-24_W15.24mm_Socket,,,,tht,

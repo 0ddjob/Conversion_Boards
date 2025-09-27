@@ -1,0 +1,3 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+100.22,-69.85,0.0,top,U1,,,DIP-28_Adapter,27C64,tht
+102.87,-72.39,0.0,top,U2,,,DIP-24_W15.24mm_Socket,MK36000,tht
