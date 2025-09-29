@@ -1,0 +1,6 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+123.1,-76.2,-90.0,top,J1,,,DSUB-15-HD_Socket_Horizontal_P2.29x1.90mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm,VGA Out,tht
+127.186,-97.79,0.0,top,J2,MJ-3536N,,MJ3536N,Audio Out,tht
+130.81,-81.28,180.0,top,J3,,,PinHeader_1x07_P2.54mm_Vertical,To VGA,tht
+139.7,-81.28,180.0,top,J4,,,PinHeader_1x07_P2.54mm_Vertical,RGB Patch,tht
+144.78,-66.04,0.0,top,J5,,,PinHeader_1x07_P2.54mm_Horizontal,From DIN/RGB,tht
