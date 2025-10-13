@@ -1,0 +1,5 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+94.879,-37.68195,0.0,top,J1,,,PinHeader_2x20_P2.54mm_Vertical,Logic Analyser #1,tht
+72.019,-37.68195,0.0,top,J2,,,DIP-40_W15.24mm,6502 Socket,tht
+64.399,-37.68195,0.0,top,J3,,,PinHeader_2x20_P2.54mm_Vertical,Logic Analyser #2,tht
+74.15,-37.68195,0.0,top,U1,,,DIP-40_W15.24mm_Socket,6502,tht
