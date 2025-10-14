@@ -1,5 +1,5 @@
-﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
-J1,1,Logic Analyser #1,PinHeader_2x20_P2.54mm_Vertical,,,,tht,"Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-J2,1,Z80 Socket,DIP-40_W15.24mm,,,,tht,"Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"
-J3,1,Logic Analyser #2,PinHeader_2x20_P2.54mm_Vertical,,,,tht,"Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-U1,1,8080A,DIP-40_W15.24mm,,,,tht,"8-bit N-channel Microprocessor, DIP-40"
+Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+J1,1,Logic Analyser #1,PinHeader_2x20_P2.54mm_Vertical,,,,tht,2x20 pin header
+J2,2,8080 Socket,DIP-40_W15.24mm,,,,tht,"20 pin male-male PCB connector, i.e. Preci-Dip 350-PP-1NN-00-001101 or similar"
+J3,1,Logic Analyser #2,PinHeader_2x20_P2.54mm_Vertical,,,,tht,2x20 pin header
+U1,1,8080A,DIP-40_W15.24mm,,,,tht,40 pin turned pin IC socket
