@@ -1,0 +1,4 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+124.321586,-92.796881,-90.0,top,J1,671-0801,,6710801,МАГ DIN,tht
+110.321586,-93.296881,0.0,top,J2,SJ3-350820B-TR,,SJ3350820BTR,MIC,tht
+110.321586,-81.296881,0.0,top,J3,SJ3-350820B-TR,,SJ3350820BTR,EAR,tht
