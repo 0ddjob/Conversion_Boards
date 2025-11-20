@@ -1,6 +1,0 @@
-﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Height,Mouser Part Number,Mouser Price/Stock,Manufacturer_Name
-J1,1,VGA Out,DSUB-15-HD_Socket_Horizontal_P2.29x1.90mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm,,,,tht,"15-pin D-SUB connector, socket (female), High density (3 columns), Triple Row, Generic, VGA-connector",,,,
-J2,1,Audio Out,MJ3536N,,MJ-3536N,,tht,"3.5 mm, Mono, Right Angle, Through Hole, 2 Conductors, 1 Internal Switch, Audio Jack Connector",10,490-MJ-3536N,https://www.mouser.co.uk/ProductDetail/Same-Sky/MJ-3536N?qs=WyjlAZoYn51vdgS3Tq1ykQ%3D%3D,Same Sky
-J3,1,To VGA,PinHeader_1x07_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)",,,,
-J4,1,RGB Patch,PinHeader_1x07_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)",,,,
-J5,1,From DIN/RGB,PinHeader_1x07_P2.54mm_Horizontal,,,,tht,"Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)",,,,
