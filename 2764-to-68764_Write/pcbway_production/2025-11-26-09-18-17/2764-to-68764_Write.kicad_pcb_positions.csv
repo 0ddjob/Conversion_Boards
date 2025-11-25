@@ -1,0 +1,6 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+75.491116,-41.54,180.0,top,Q1,,,Transistor TO-225AA,Q1,tht
+79.301116,-41.54,0.0,top,R1,,,R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical,1KΩ,tht
+84.381116,-41.54,0.0,top,R2,,,R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical,1KΩ,tht
+72.951116,-50.43,0.0,top,U1,,,DIP-24_W15.24mm_Socket,MCM68764_EPROM,tht
+70.411116,-45.35,0.0,top,U2,,,DIP-28_Adapter,2764,tht

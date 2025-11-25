@@ -1,0 +1,4 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+J1,1,Breakout,PinHeader_1x09_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J2,1,DE9 Male,DSUB-9_Pins_EdgeMount_P2.77mm,,,,smt,"9-pin D-SUB connector, pins (male)"
+J3,1,DE9 Female,DSUB-9_Socket_EdgeMount_P2.77mm,,,,smt,"9-pin D-SUB connector, socket (female)"

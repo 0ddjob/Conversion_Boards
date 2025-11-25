@@ -1,0 +1,5 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+102.1,-46.98,-90.0,top,J1,,,PinHeader_1x02_P2.54mm_Vertical,A13 Switch,tht
+94.48,-46.98,180.0,top,R1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10KΩ,tht
+87.98,-50.67,0.0,top,U1,,,DIP-28_Adapter,2764 Socket,tht
+85.59,-50.73,0.0,top,U2,,,DIP-28_W15.24mm,27128,tht

@@ -1,0 +1,4 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+101.545,-72.97,180.0,top,J1,,,PinHeader_1x09_P2.54mm_Vertical,Breakout,tht
+93.925,-63.27,-90.0,top,J2,,,DSUB-9_Pins_EdgeMount_P2.77mm,DE9 Male,smt
+109.165,-63.27,90.0,top,J3,,,DSUB-9_Socket_EdgeMount_P2.77mm,DE9 Female,smt

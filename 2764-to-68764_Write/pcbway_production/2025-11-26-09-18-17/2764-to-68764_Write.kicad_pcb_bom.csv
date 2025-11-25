@@ -1,0 +1,5 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Device,Sim.Type,Sim.Pins
+Q1,1,Q1,Transistor TO-225AA,,,,tht,"Bipolar transistor symbol for simulation only, substrate tied to the emitter",PNP,GUMMELPOON,1=C 2=B 3=E
+"R1, R2",2,1KΩ,R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical,,,,tht,Resistor,,,
+U1,1,MCM68764_EPROM,DIP-24_W15.24mm_Socket,,,,tht,,,,
+U2,1,2764,DIP-28_Adapter,,,,tht,"EPROM 64 KiBit, [Obsolete 2000-11]",,,
